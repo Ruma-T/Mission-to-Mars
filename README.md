@@ -47,7 +47,7 @@ We have to write a code using BeautifulSoup and Splinter to scrape full-resoluti
 Scrape Full-Resolution Mars Hemisphere Images and Titles
 
 
-## Scrap New Data Button
+## Scrape New Data Button
 
 ![png_Cap10.7](https://github.com/Ruma-T/Mission-to-Mars/blob/main/Resources/Cap10.7.PNG)
 
